@@ -22,5 +22,7 @@ Analizar el rendimiento de ventas por:
 ### _Archivos:_
 * tablero_Nike.pbix: dashboard principal
 ### _Preview:_
+![Portada](Portada.png)
+![Dashboard](Dashboard.png)
 
 
